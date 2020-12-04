@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1002.0714"
+   height="214.15234"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="badc_csv.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="C:\Documents and Settings\qxt64851\Desktop\badc_csv.png"
+   inkscape:export-xdpi="449.07001"
+   inkscape:export-ydpi="449.07001"
+   version="1.0">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32"
+     inkscape:cx="160.47962"
+     inkscape:cy="657.60933"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1246"
+     inkscape:window-height="712"
+     inkscape:window-x="208"
+     inkscape:window-y="129"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     showborder="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(78.056088,-103.30168)">
+    <g
+       id="g3267"
+       transform="matrix(0,4e-2,-4e-2,0,237.81294,-310.33831)"
+       style="opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(0,-15,15,0,-6525.0907,5619.1737)"
+         id="g3269">
+        <image
+           y="437.33994"
+           x="307.41275"
+           id="image3271"
+           height="12.05"
+           width="12.0625"
+           sodipodi:absref="C:\Documents and Settings\qxt64851\Desktop\pastedpic_05182009_140511.png"
+           xlink:href="pastedpic_05182009_140511.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           x="320"
+           y="446.64789"
+           id="text3273"><tspan
+             sodipodi:role="line"
+             id="tspan3275"
+             x="320"
+             y="446.64789">BADC-CSV</tspan></text>
+      </g>
+      <rect
+         ry="30.50325"
+         rx="27.036978"
+         y="26.047197"
+         x="20.203051"
+         height="1002.0714"
+         width="214.15234"
+         id="rect3277"
+         style="opacity:1;fill:#006700;fill-opacity:0.15263157" />
+    </g>
+  </g>
+</svg>
