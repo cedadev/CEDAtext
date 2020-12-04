@@ -1,2 +1,2 @@
 # CEDAtext
-CEDA text format utilities
+badc-csv format utilities
